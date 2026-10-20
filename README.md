@@ -77,7 +77,7 @@ A food discovery application focused on helping users explore food options.
 
 <img src="https://github-readme-stats.vercel.app/api?username=dave201y&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave201y&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
